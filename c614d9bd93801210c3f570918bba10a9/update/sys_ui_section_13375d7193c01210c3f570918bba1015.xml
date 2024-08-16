@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="13375d7193c01210c3f570918bba1015" sys_domain="global" table="x_1313367_snow_app_demo" version="3" view="advanced_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sla_due</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 17:29:23</sys_created_on>
+            <sys_id>ef375d7193c01210c3f570918bba104b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1313367_snow_app_demo" sys_domain="global" view="a3dba8c21806021076dae3f117ba1efc">13375d7193c01210c3f570918bba1015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 17:29:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>made_sla</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 17:29:23</sys_created_on>
+            <sys_id>63375d7193c01210c3f570918bba104c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1313367_snow_app_demo" sys_domain="global" view="a3dba8c21806021076dae3f117ba1efc">13375d7193c01210c3f570918bba1015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 17:29:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 17:29:23</sys_created_on>
+            <sys_id>e3375d7193c01210c3f570918bba104c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1313367_snow_app_demo" sys_domain="global" view="a3dba8c21806021076dae3f117ba1efc">13375d7193c01210c3f570918bba1015</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 17:29:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1313367_snow_app_demo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-16 17:29:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13375d7193c01210c3f570918bba1015</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1313367_snow_app_demo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Snow App" source="x_1313367_snow_app">c614d9bd93801210c3f570918bba10a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Snow App">c614d9bd93801210c3f570918bba10a9</sys_scope>
+            <sys_update_name>sys_ui_section_13375d7193c01210c3f570918bba1015</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-16 17:29:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced View" name="advanced_view">a3dba8c21806021076dae3f117ba1efc</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Snow App demo</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 17:18:11</sys_created_on>
+        <sys_id>efa415bd93801210c3f570918bba10d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Snow App demo</sys_name>
+        <sys_package display_value="Snow App" source="x_1313367_snow_app">c614d9bd93801210c3f570918bba10a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Snow App">c614d9bd93801210c3f570918bba10a9</sys_scope>
+        <sys_update_name>sys_sg_data_item_efa415bd93801210c3f570918bba10d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 17:18:11</sys_updated_on>
+        <table>x_1313367_snow_app_demo</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=efa415bd93801210c3f570918bba10d5"/>
+</record_update>

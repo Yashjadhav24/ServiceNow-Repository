@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (demo)">40b455fd93801210c3f570918bba100a</button>
+        <item_parameter display_value="demo location">08b415fd93801210c3f570918bba10fc</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 17:18:12</sys_created_on>
+        <sys_id>48b455fd93801210c3f570918bba100e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>08b415fd93801210c3f570918bba10fc</sys_name>
+        <sys_package display_value="Snow App" source="x_1313367_snow_app">c614d9bd93801210c3f570918bba10a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Snow App">c614d9bd93801210c3f570918bba10a9</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_48b455fd93801210c3f570918bba100e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 17:18:12</sys_updated_on>
+        <ui_parameter display_value="Location">44b455fd93801210c3f570918bba100c</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

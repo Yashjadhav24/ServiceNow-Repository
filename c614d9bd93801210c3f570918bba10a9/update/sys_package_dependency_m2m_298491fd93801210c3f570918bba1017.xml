@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">fda1640a1802021076dae3f117ba1e1b</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-16 17:17:30</sys_created_on>
+        <sys_id>298491fd93801210c3f570918bba1017</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Snow App" source="x_1313367_snow_app">c614d9bd93801210c3f570918bba10a9</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-16 17:17:30</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
